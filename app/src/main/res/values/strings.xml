@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavigationComponentSample</string>
+    <string name="hello_blank_fragment">It\'s the destination fragment</string>
+</resources>
